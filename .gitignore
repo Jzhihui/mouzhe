@@ -1,4 +1,5 @@
 .gitignore
+*.zip
 /repos
 /resume
 /other*
