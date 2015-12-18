@@ -1,6 +1,5 @@
-.gitignore
+#.gitignore
 *.zip
 /repos
 /resume
 /other*
-product*/Axure
